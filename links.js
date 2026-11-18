@@ -39,7 +39,7 @@ window.LINKS = {
    {
     "from": 1,
     "to": 7,
-    "url": "",
+    "url": "https://youtu.be/16VgL7lDTNc",
     "starts": [
      0,
      136,
@@ -53,7 +53,7 @@ window.LINKS = {
    {
     "from": 8,
     "to": 30,
-    "url": "",
+    "url": "https://youtu.be/mcM51KlbtJA",
     "starts": [
      0,
      172,
