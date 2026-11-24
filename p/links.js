@@ -18,18 +18,18 @@ window.LINKS = {
    "between"
   ],
   "urls": [
-   "https://youtu.be/uqJNshYJBho",
-   "https://youtu.be/4RtrAirVBnM",
-   "https://youtu.be/4WjdvNumJIk",
-   "https://youtu.be/bYw1HO84m2o",
-   "https://youtu.be/vOEbxTiEZfA",
-   "https://youtu.be/WrV600udNP0",
-   "https://youtu.be/DhdjLbCm9_I",
-   "https://youtu.be/YGTIHjOCqsw",
-   "https://youtu.be/am0HYjmW5_g",
-   "https://youtu.be/TNrRX33K2SY",
-   "https://youtu.be/LDNOF_PtoeQ",
-   "https://youtu.be/Bjhsg8HJkG8"
+   "https://youtu.be/RmcySwUfhCQ",
+   "https://youtu.be/D80FeNCPndw",
+   "https://youtu.be/l0LtqnWPCMY",
+   "https://youtu.be/cnJ3Exqig0w",
+   "https://youtu.be/AtGgzqnIV0o",
+   "https://youtu.be/E1FoZ8SNU8Y",
+   "https://youtu.be/-4tELU3eqaI",
+   "https://youtu.be/-SG0XWY0L3E",
+   "https://youtu.be/7rK0FJvkUrQ",
+   "https://youtu.be/rcQv8FItZmg",
+   "https://youtu.be/_l7JBphLVGE",
+   "https://youtu.be/H0qpZlSvOrE"
   ],
   "playlist": ""
  },
@@ -50,18 +50,18 @@ window.LINKS = {
    "at"
   ],
   "urls": [
-   "https://youtu.be/CaDW5j916Jc",
-   "https://youtu.be/U-OkssWxP8Y",
-   "https://youtu.be/oVfcwVBn9gE",
-   "https://youtu.be/fnCl2rS1k9s",
-   "https://youtu.be/ir7UhYkGzOI",
-   "https://youtu.be/lxDaWZQcRyw",
-   "https://youtu.be/xW5B8UCEiEQ",
-   "https://youtu.be/nLCSCgYsO_4",
-   "https://youtu.be/eFRusGX6OE0",
-   "https://youtu.be/Y8XcOKfg7lI",
-   "https://youtu.be/6LSR0YuXAJg",
-   "https://youtu.be/SlbJfY0kI6A"
+   "https://youtu.be/06lwONW4o9I",
+   "https://youtu.be/kYZzzyyYse4",
+   "https://youtu.be/JsWAZQBkqbI",
+   "https://youtu.be/QWovIxWC8Yk",
+   "https://youtu.be/a25W8u07x_M",
+   "https://youtu.be/6_ig5r9mNis",
+   "https://youtu.be/HWV6V_57sIM",
+   "https://youtu.be/cOiB-soMJy4",
+   "https://youtu.be/ct4_LdQfpP4",
+   "https://youtu.be/OH9SH5ig9bQ",
+   "https://youtu.be/Iae4-ZQeR5I",
+   "https://youtu.be/EuIv0XZ2dY8"
   ],
   "playlist": ""
  },
@@ -82,18 +82,18 @@ window.LINKS = {
    "fall"
   ],
   "urls": [
-   "https://youtu.be/SjIgTQqSSm0",
-   "https://youtu.be/IIf24gK0aq4",
-   "https://youtu.be/QQCGbmtkFpE",
-   "https://youtu.be/HBpu6JsDFS4",
-   "https://youtu.be/k58Fe4O8hDc",
-   "https://youtu.be/PyADDvs4tFE",
-   "https://youtu.be/3eY1L9P_Wa8",
-   "https://youtu.be/cxiYAxK_l2w",
-   "https://youtu.be/kYBL0p834-k",
-   "https://youtu.be/GW0p_GI3Gps",
-   "https://youtu.be/X729Y6uOFRY",
-   "https://youtu.be/xhWmk0YK_D8"
+   "https://youtu.be/n8iH2xpY8XY",
+   "https://youtu.be/W10fJyVPnPI",
+   "https://youtu.be/TcZwIYQ3LAg",
+   "https://youtu.be/wEv38uz8wmw",
+   "https://youtu.be/ZCHfLFS_Mx4",
+   "https://youtu.be/lNIQB3VOeVg",
+   "https://youtu.be/8cjijtkQdHE",
+   "https://youtu.be/8fWJOWKp5_k",
+   "https://youtu.be/rjpRnWuYkIA",
+   "https://youtu.be/ChQoE6sJRaw",
+   "https://youtu.be/TeD1lgRhwDo",
+   "https://youtu.be/kbGDyc10x9o"
   ],
   "playlist": ""
  }
